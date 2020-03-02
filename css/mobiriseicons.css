@@ -1,6 +1,8 @@
 @font-face {
   font-family: 'MobiriseIcons';
   src:  url('../fonts/MobiriseIcons.eot?5dqoim');
+  src:  url('../mobiriseicons/30 px/mobirise/fonts/mobirise.eot');
+  src:  url('../mobiriseicons/30 px/mobirise/fonts/');
   src:  url('../mobiriseicons/mobiriseicons/30\ px/');
   src:  url('../fonts/MobiriseIcons.eot?5dqoim#iefix') format('embedded-opentype'),
     url('../fonts/mobirise.ttf?5dqoim') format('truetype'),

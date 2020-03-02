@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'MobiriseIcons';
-  src:  url('fonts/MobiriseIcons.eot?5dqoim');
-  src:  url('fonts/MobiriseIcons.eot?5dqoim#iefix') format('embedded-opentype'),
-    url('fonts/MobiriseIcons.ttf?5dqoim') format('truetype'),
-    url('fonts/MobiriseIcons.woff?5dqoim') format('woff'),
-    url('fonts/MobiriseIcons.svg?5dqoim#MobiriseIcons') format('svg');
+  src:  url('fonts/mobirise.eot?5dqoim');
+  src: url('fonts/mobirise.eot?5dqoim#iefix') format('embedded-opentype'),
+    url('fonts/mobirise.ttf?5dqoim') format('truetype'),
+    url('fonts/mobirise.woff?5dqoim') format('woff'),
+    url('fonts/mobirise.svg?5dqoim#mobirise') format('svg');
   font-weight: normal;
   font-style: normal;
 }
