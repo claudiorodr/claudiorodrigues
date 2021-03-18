@@ -21,7 +21,7 @@
 <br />
 <p align="center">
   <!-- <a href="https://github.com/rammazzoti2000/personal_portfolio"> -->
-    <img src="https://github.com/claudiorodr/claudiorodrigues/blob/master/claudio-dark.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/claudiorodr/claudiorodrigues/blob/master/claudio-dark.png" alt="Logo"  height="80">
   <!-- </a> -->
 
   <h3 align="center">Personal Portfolio</h3>
