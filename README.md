@@ -1,21 +1,6 @@
 # Personal Portfolio Project Documentation
 # https://www.claudiodrodrigues.com
 
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -26,18 +11,6 @@
 
   <h3 align="center">Personal Portfolio</h3>
 
-  <p align="center">
-    This project is part of the Microverse Professional skills curriculum!
-    <br />
-    <a href="https://github.com/rammazzoti2000/personal_portfolio"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://www.alex-portfolio.org/">View Demo</a>
-    ·
-    <a href="https://github.com/rammazzoti2000/personal_portfolio/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/rammazzoti2000/personal_portfolio/issues">Request Feature</a>
-  </p>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -46,7 +19,6 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Usage](#usage)
-* [Automated Test](#automated-test)
 * [Author](#author)
 * [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
