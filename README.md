@@ -54,17 +54,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://rammazzoti2000.github.io/personal_portfolio/)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/claudiorodr/claudiorodrigues/blob/master/screenshot.png)
 
 This project represents my personal Portfolio and features some of my github projects
 
 ### Built With
 This project was built using these technologies.
-* React
-* ES6
-* Node.js
-* HTML
+* PHP
+* Google Fonts
+* HTML5
 * CSS3
+* Bootstrap 4.6.0
 * VsCode
 * Netlify Forms
 
@@ -74,11 +74,11 @@ To have this app on your pc, you need to:
 * [download](https://github.com/rammazzoti2000/personal_portfolio/archive/development.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:rammazzoti2000/personal_portfolio.git
+    git@github.com:claudiorodr/claudiorodrigues.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/rammazzoti2000/personal_portfolio.git
+    https://github.com/claudiorodr/claudiorodrigues.git
   ```
 
 * In the project directory, you can run:
@@ -102,20 +102,19 @@ To have this app on your pc, you need to:
 <!-- LIVE VERSION -->
 ## Live version
 
-You can see it [here](https://www.alex-portfolio.org/)
+You can see it [here](https://www.claudiodrodrigues.com/)
 
 <!-- CONTACT -->
 ## Author
-👤 Alexandru Bangau
+👤 Cláudio Rodrigues
 
-- Twitter: [@alex_maxinova](https://twitter.com/alex_maxinova)
-- Github: [@rammazzoti2000](https://github.com/rammazzoti2000)
-- Gmail: bangau.alexandru@gmail.com
+- Github: [@claudiorodr](https://github.com/claudiorodr)
+- Gmail: claudioduarterodrigues@gmail.com
 
 ## :handshake: Contributing
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rammazzoti2000/personal_portfolio/issues).
+Feel free to check the [issues page](https://github.com/claudiorodr/claudiorodrigues/issues).
 
 ## Show your support
 
