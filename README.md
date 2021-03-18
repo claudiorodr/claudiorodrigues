@@ -107,7 +107,7 @@ Give a :star: if you like this project!
 [stars-shield]: https://img.shields.io/github/stars/rammazzoti2000/personal_portfolio.svg?styles/default/yes.svg
 [stars-url]: https://github.com/rammazzoti2000/personal_portfolio/stargazers
 [issues-shield]: https://img.shields.io/github/issues/rammazzoti2000/personal_portfolio.svg?styles/default/yes.svg
-[issues-url]: https://github.com/rammazzoti2000/personal_portfolio/issues
+[issues-url]: https://github.com/claudiorodr/claudiorodrigues/issues
 [netlify-shield]: https://api.netlify.com/api/v1/badges/f88e03cf-ec7b-4593-ac9b-54e4dabffa33/deploy-status
 [netlify-url]: https://app.netlify.com/sites/alex-bangau/deploys
 [product-screenshot]: https://github.com/claudiorodr/claudiorodrigues/blob/master/screenshot.png
